@@ -3,4 +3,3 @@ pandas
 numpy
 scikit-learn
 joblib
-C:\Users\moule\OneDrive\Documents\ML Assignment Model
